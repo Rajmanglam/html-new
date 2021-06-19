@@ -1,4 +1,4 @@
- .vscode/settings.json
+.vscode/settings.json
 html/HTML Notes/Chapter 0/cwh.html
 html/HTML Notes/Chapter 0/html_course_chapter_0.pdf
 html/HTML Notes/Chapter 0/this.txt
