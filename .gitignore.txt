@@ -1,2 +1,29 @@
-setting.json
-HTML Notes
+ .vscode/settings.json
+html/HTML Notes/Chapter 0/cwh.html
+html/HTML Notes/Chapter 0/html_course_chapter_0.pdf
+html/HTML Notes/Chapter 0/this.txt
+html/HTML Notes/Chapter 1/html_course_chapter1_.pdf
+html/HTML Notes/Chapter 1/html_course_chapter_1_practice_set.pdf
+html/HTML Notes/Chapter 1/index.html
+html/HTML Notes/Chapter 1/notepad.html
+html/HTML Notes/Chapter 1/practice.html
+html/HTML Notes/Chapter 2/about.html
+html/HTML Notes/Chapter 2/html_course_chapter_2.pdf
+html/HTML Notes/Chapter 2/html_course_chapter_2_practice.pdf
+html/HTML Notes/Chapter 2/image.jfif
+html/HTML Notes/Chapter 2/index.html
+html/HTML Notes/Chapter 2/ps.html
+html/HTML Notes/Chapter 3/chapter3ps.html
+html/HTML Notes/Chapter 3/html_course_chapter_3.pdf
+html/HTML Notes/Chapter 3/html_course_chapter_practice.pdf
+html/HTML Notes/Chapter 3/img/cwh.jfif
+html/HTML Notes/Chapter 3/index.html
+html/HTML Notes/Chapter 4/form.html
+html/HTML Notes/Chapter 4/html_course_chapter_4.pdf
+html/HTML Notes/Chapter 4/html_course_chapter_4_practice.pdf
+html/HTML Notes/Chapter 4/list.html
+html/HTML Notes/Chapter 4/table.html
+html/HTML Notes/Chapter 4/video.html
+html/HTML Notes/Chapter 5/favicon.ico
+html/HTML Notes/Chapter 5/html_course_chapter_5.pdf
+html/HTML Notes/Chapter 5/seo.html
