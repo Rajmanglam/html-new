@@ -1,4 +1,4 @@
-.vscode/settings.json
+s.vscode/settings.json
 html/HTML Notes/Chapter 0/cwh.html
 html/HTML Notes/Chapter 0/html_course_chapter_0.pdf
 html/HTML Notes/Chapter 0/this.txt
@@ -27,4 +27,4 @@ html/HTML Notes/Chapter 4/video.html
 html/HTML Notes/Chapter 5/favicon.ico
 html/HTML Notes/Chapter 5/html_course_chapter_5.pdf
 html/HTML Notes/Chapter 5/seo.html
-html/yt1s.com - HTML Tutorial For Beginners In Hindi With Notes _1080p.mp4
+yt1s.com - HTML Tutorial For Beginners In Hindi With Notes _1080p.mp4
